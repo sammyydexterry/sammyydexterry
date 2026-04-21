@@ -4,8 +4,8 @@ my name's sammy, i'm 22 years old and i only program as a hobby, but i still thi
 
 ### I'm learning
 <div float="left">
-<img align="top" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> 
-<img align="top" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" />
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> 
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" />
 </div>
 
 <p>.</p>
