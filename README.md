@@ -6,6 +6,12 @@ my name's sammy, i'm 22 years old and i only program as a hobby, but i still thi
 <div><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" /></div>
 
 ### Contact me!
+<style>
+          .image-title-single-row,
+          .image-single-row{
+             display:flex;
+          }
+        </style>
 <div>
 <a href="https://www.youtube.com/sammydexterry" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/sammydexterry" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
