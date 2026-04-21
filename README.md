@@ -8,7 +8,7 @@ my name's sammy, i'm 22 years old and i only program as a hobby, but i still thi
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" />
 </div>
 
-<p></p>
+<p>.</p>
 
 ### Contact me!
 
