@@ -4,8 +4,8 @@ my name's sammy, i'm 22 years old and i only program as a hobby, but i still thi
 
 ### I'm learning
 <p float="left">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> 
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40"  />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" /> 
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  width="40" height="40" />
 </p>
 
 ### Contact me!
